@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-npm",
+  "version": "1.0.0",
+  "description": "Prácticas del curso de NPM de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "node": "node src/index.js && node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Red Robles <redworld22@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^9.9.1",
+    "json-server": "^1.0.0-beta.2"
+  }
+}
